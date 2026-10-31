@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+Rara,85
+Budi,78
+Citra,90
+Lulu,65
+Ciko,75
+Fani,95
+Gita,70
+Gea,80
+=== REKAP DAN ANALISIS NILAI MATEMATIKA ===
+Jumlah siswa    : 8
+Rata-rata nilai : 79.75
+Nilai tertinggi : 95.00
+Nilai terendah  : 65.00
+Siswa lulus     : 6
+Belum lulus     : 2
+=======
+Ayu,85
+Budi,78
+Citra,90
+Dina,65
+Eko,75
+Fani,95
+Gita,70
+Hadi,80
+>>>>>>> da55b17 (Menyelesaikan proyek akhir Pertemuan 15)
